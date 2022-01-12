@@ -1,16 +1,14 @@
-# Spring Fundamentals Self-Study and Quiz
+# SpringBoot_practice
 
-## Chapter 3
+使用 Spring Boot以下所有功能：
 
-本章節將練習使用 Spring Boot完成Ch2的所有功能：
-
-- 讀出Part3_Ch4所設定的table資料，且具刪除功能。
+- 讀出資料庫的table資料，且具刪除功能。
 - 簡單的新增功能，並更新上方清單。
 
 ![](result.gif)
 
-本題不再提供專案，使用https://start.spring.io/ 自行建立spring boot project。
+使用https://start.spring.io/ 建立spring boot project。
 
-專案結構可參考：
+專案結構：
 
 ![](project.png)
